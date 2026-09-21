@@ -1,15 +1,9 @@
-# VisuallyJs Vue Template
+# Scrolling lists - VisuallyJs Vue
 
-https://visuallyjs.com/demonstrations/template
+This app demonstrates the scrolling list manager functionality offered by VisuallyJs - edges are automatically proxied onto the parent container when their element is scrolled out of view.
 
-This is a starter app you can use as a base to build your own apps. It contains examples of how to configure:
+https://visuallyjs.com/demonstrations/list-manager
 
-- a zoomable and pannable canvas
-- the JSX used to render nodes
-- the appearance and event bindings for edges
-- a miniview component
-- a controls component, providing buttons to undo/redo, zoom to fit, etc
-- a palette from which you can drag new nodes onto the canvas
-- how to setup plugins in the canvas.
+## Screenshot
 
-![Screenshot](https://static.visuallyjs.com/img/app-card/template-2400.png)
+![Screenshot](https://static.visuallyjs.com/img/app-card/list-manager-2400.png)
